@@ -1,7 +1,4 @@
-# Threat-Intelligence
-<img align="center" alt="Coding" width="400" src="https://media.giphy.com/media/v3LxMGs7TObBO5Uqik/giphy.gif">
-
-# What is it? 
+# Threat Intelligence, What is it? 
 
 Threat Intelligence by definition is data that is collected, processed, and analyzed to understand a threat actor’s motives, targets, and attack behaviors. Threat intelligence enables us to make faster, more informed, data-backed security decisions and change their behavior from reactive to proactive in the fight against threat actors. (CrowdStrike)
 </br>
@@ -42,7 +39,10 @@ rhetoric needs to improve without a doubt.
 
 Intelligence is a highly sought out field in our cyber career/culture. And I mean who doesn't like to tell their friends and family *"I work in Intelligence, scoff).* 
 Aside from that it's imperative to keep learning, practicing, and exercise that analytical thinking of yours. And you may say, "Easy, I've got those skills!" and you 
-probably may have, however, implementing them into writing takes time for your ideas and writing to cultivate. 
+probably may have, however, implementing them into writing takes time for your ideas and writing to cultivate.
+</br>
+</br>
+<img align= "center" alt="Coding" width="400" src="https://media.giphy.com/media/f4DCRyH9G2jJjusFNh/giphy.gif">
 </br>
 </br>
 # Thanks!
