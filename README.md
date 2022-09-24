@@ -52,8 +52,37 @@ probably may have, however, implementing them into writing takes time for your i
 </p>
 </br>
 </br>
+# Resources!
+
+Primary research and examples derive from CrowdStrike. They have an awesome breakdown of what Threat Intelligence is, who it benefits, and why it's so important! Link: https://www.crowdstrike.com/cybersecurity-101/threat-intelligence/
+</br>
+</br>
+Another good example to understand Threat Intelligenc would be EC-Council Link: https://www.eccouncil.org/cyber-threat-intelligence/
+</br>
+</br>
+Flashpoint is also another prime example of Threat Intelligence. Here they cover the Intelligence Life-Cycle in-depth. https://flashpoint.io/blog/threat-intelligence-lifecycle/
+</br>
+</br>
+If you're looking for Intelligence Report examples there are tons on Google. Remember, Intelligence in itself is a different field. It is the course of 
+effectively getting your message across without any ambigous jargon, or self input. Intelligence in Cybersecurity is the specialization of Intelligence 
+within Cyber so you need to understand that. There are multiple Intelligence fields which cater to different sectors:
+<p align="left">
+  * Cybersecurity
+  </br>
+  * Government
+  </br>
+  * Legal
+</p>
+From there we can break down the specific types of reports that should be written. Here are a few types of categories company classify the type of Intelligence report that should be written
+</br>
+
+![Blog_FeaturedIMG_The-Five-Stages-of-the-Cyber-Threat-Intelligence-Lifecycle-1-1024x536](https://user-images.githubusercontent.com/88797481/192115485-387e5291-2dc6-4c7c-a8d8-f63b2708ffbc.png)
+<p align="center">
+*(Source of Image from Flashpoint.io)*
+</p>
+</br>
+</br>
 
 # Thanks!
-
 If you've read this I just wanted to say thank you for spending your invaluable time! Cybersecurity is hard. And as many leaders in the field say, "To understand cybersecurity,
 is to understand you are a student of cybersecurity." Feel free to connect with me on Linkedin!
