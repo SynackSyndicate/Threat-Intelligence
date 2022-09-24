@@ -52,6 +52,7 @@ probably may have, however, implementing them into writing takes time for your i
 </p>
 </br>
 </br>
+
 # Resources!
 
 Primary research and examples derive from CrowdStrike. They have an awesome breakdown of what Threat Intelligence is, who it benefits, and why it's so important! Link: https://www.crowdstrike.com/cybersecurity-101/threat-intelligence/
