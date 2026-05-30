@@ -6,6 +6,4 @@ description: >-
 
 # Binance.US
 
-<figure><img src="../.gitbook/assets/protect.png" alt=""><figcaption></figcaption></figure>
-
 <figure><img src="../.gitbook/assets/running.png" alt=""><figcaption></figcaption></figure>
