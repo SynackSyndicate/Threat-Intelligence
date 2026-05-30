@@ -4,7 +4,7 @@ icon: face-awesome
 
 # Whoami
 
-<h2 id="welcome-to-my-noob-blog" align="center">Aloha &#x26; Welcome to my Blog! </h2>
+<h2 id="welcome-to-my-noob-blog" align="center">The Omnissiah Welcomes You to this Battle-Brothers Blog! </h2>
 
 #### About me:
 
