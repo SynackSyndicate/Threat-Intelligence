@@ -12,5 +12,6 @@ Professionally, Vien specializes in Cyber Defense, where his primary focus is sa
 
 His approach combines technical expertise with strategic thinking, allowing him to address both immediate security concerns and long-term risk management. Vien thrives in high-pressure environments and am dedicated to staying ahead of emerging threats through continuous learning and adaptation.
 
-{% embed url="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZnprM21hNGVqM3RkOW9lczY1bDJqYnc4bWNiMjhxb2Qxd3Z3YWI0cyZlcD12MV9naWZzX3NlYXJjaCZjdD1n/ASd0Ukj0y3qMM/giphy.gif" fullWidth="true" %}
 
+
+{% embed url="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExdjY4cXh4a3Z0NG54c2h0NDg5ZmJ4YWpkbGQydGNqMXY1cjBia2p1YiZlcD12MV9naWZzX3NlYXJjaCZjdD1n/kYBStwgFSLeJq/giphy.gif" %}
