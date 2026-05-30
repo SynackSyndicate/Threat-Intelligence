@@ -77,6 +77,10 @@
   * [Tasks, Duties, What I learned](western-union-internship/overview/tasks-duties-what-i-learned.md)
   * [Advice Intern to Intern](western-union-internship/overview/advice-intern-to-intern.md)
 
+## Accolades and Recognition
+
+* [Binance.US](accolades-and-recognition/binance.us.md)
+
 ## Contacts
 
 * [Contacts, Credly, and Online Profiles](contacts/contacts-credly-and-online-profiles.md)
