@@ -1,8 +1,15 @@
 # Table of contents
 
 * [Whoami](README.md)
-* [2026](2026/README.md)
-  * [Welp, it happened](2026/welp-it-happened.md)
+
+## Thoughts On Ai
+
+* [AI](thoughts-on-ai/ai.md)
+* [Job market](thoughts-on-ai/job-market.md)
+
+## 2026
+
+* [Welp, it happened](2026/welp-it-happened.md)
 
 ## 2025 Work
 
