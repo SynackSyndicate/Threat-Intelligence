@@ -10,7 +10,7 @@ Don't get me started on the incoming T1 SOC Analysts. Check out this listing as 
 
 <figure><img src="../.gitbook/assets/image (17).png" alt=""><figcaption></figcaption></figure>
 
-My first analyst job had a range of $50k - $75K back in 2022. I was new to the field and would take anything and was new father. But now, seeing this range it isn't livable in most areas of the United States. _Please don't get me started on the rising costs of Inflation_
+My first analyst job had a range of $50k - $75K back in 2022. I was new to the field and would take anything and was a new father. But now, seeing this range it isn't livable in most areas of the United States. _Please don't get me started on the rising costs of Inflation_
 
 ### TOO LATE _INFLATION_
 
