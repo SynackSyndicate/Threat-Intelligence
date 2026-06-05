@@ -4,7 +4,7 @@ I'm going to be honest, if cybersecurity wasn't already hard to get into, it def
 
 The AI bubble has "popped" but the cascading effect still has lasting damages. Corporations still continue to lay off, but there are some hope that companies are now just realizing their mistake. I believe the market will correct itself; however, there will be huge market adjustments and losses.
 
-AI has taken, restricted, and gate-kept jobs from the current market and will continue to do so. We will see companies lower the average salary for Sr. Roles that maybe was $200k+ a year ago to a lower baseline $175k+. There will be a huge cut across majority of the industry.&#x20;
+AI has taken, restricted, and gate-kept jobs from the current market and will continue to do so. We will see companies lower the average salary for Sr. Roles that maybe was $200k+ a year ago to a lower baseline $175k+. There will be a huge cut of salaries across different level of tiers in every majority of the industry&#x20;
 
 Don't get me started on the incoming T1 SOC Analysts. Check out this listing as of June 4th 2026
 
