@@ -1,6 +1,6 @@
 # Job market
 
-I'm going to be honest, if cybersecurity wasn't already hard to get into, it definitely is harder to get in now. Legitimate researchers, PhD holders, 10+ veterans in the game are getting laid off at an alarming rate. As much as you are loyal to the mission, the team, to the business; the business has no obligations to hold that loyalty accountable.&#x20;
+I'm going to be honest, if cybersecurity wasn't already hard to get into, it definitely is harder to get in now. Legitimate researchers, PhD holders, 10+ veterans in the game are getting laid off at an alarming rate. As much as you are loyal to the mission, the team, to the business; the business has no obligations to hold that loyalty back to you.&#x20;
 
 The AI bubble has "popped" but the cascading effect still has lasting damages. Corporations still continue to lay off, but there are some hope that companies are now just realizing their mistake. I believe the market will correct itself; however, there will be huge market adjustments and losses.
 
